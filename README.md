@@ -1,3 +1,4 @@
+<img width="2180" height="260" alt="PASS-pic" src="https://github.com/user-attachments/assets/fde7475e-0e01-4af5-b016-e8cb6b5e515b" />
 # serving-stack
 
 The one system this course builds. Your team creates this repository once from
