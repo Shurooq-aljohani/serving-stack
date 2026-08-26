@@ -1,3 +1,4 @@
+
 # serving-stack
 
 The one system this course builds. Your team creates this repository once from
@@ -31,7 +32,7 @@ week 6 another cohort's agents are calling it.
 Each one is a lab, and each one starts from files that day hands you. Lab
 instructions, decks and quizzes are on the course Drive, one folder per week.
 This repository is your code.
-
+<img width="2310" height="466" alt="Pass-pic-w2d4" src="https://github.com/user-attachments/assets/1fdae4c8-03d4-460f-8ea1-8b3e44cfdef3" />
 ## Start here
 
 ```bash
