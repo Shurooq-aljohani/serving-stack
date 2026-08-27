@@ -1,4 +1,5 @@
 
+
 # serving-stack
 
 The one system this course builds. Your team creates this repository once from
@@ -36,6 +37,10 @@ This repository is your code.
 <img width="2136" height="412" alt="Return status Pic-w2d5" src="https://github.com/user-attachments/assets/5d2f99df-20ad-40cb-9bfb-9df8594f4f13" />
 
 <img width="1336" height="320" alt="Pass-Pic-w2d5" src="https://github.com/user-attachments/assets/d8134abd-9b99-4274-bc94-224f9eae0da6" />
+
+EXTRA LAB
+
+<img width="1732" height="646" alt="Pass-Pic-w2d5 Extra" src="https://github.com/user-attachments/assets/17b330ce-8697-4d98-86d0-b340f928259c" />
 
 ## Start here
 
